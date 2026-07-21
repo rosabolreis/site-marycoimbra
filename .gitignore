@@ -1,0 +1,13 @@
+# Dependências instaladas pelo npm — cada máquina reinstala com "npm install"
+node_modules/
+
+# Variáveis de ambiente com dados sensíveis (token, senha de e-mail)
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db

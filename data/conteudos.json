@@ -1,0 +1,118 @@
+{
+  "videos": [
+    {
+      "id": "v1",
+      "categoria": "Ao vivo",
+      "titulo": "Chegada ao local da ocorrência",
+      "legenda": "Você está vendo primeiro aqui.",
+      "capa": "",
+      "url": ""
+    },
+    {
+      "id": "v2",
+      "categoria": "Cobertura",
+      "titulo": "Direto do local, minuto a minuto",
+      "legenda": "Acabei de chegar ao local.",
+      "capa": "",
+      "url": ""
+    },
+    {
+      "id": "v3",
+      "categoria": "Vinheta",
+      "titulo": "Abertura padrão do canal",
+      "legenda": "Abertura usada antes de cada reportagem.",
+      "capa": "",
+      "url": ""
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "p1",
+      "categoria": "Segurança",
+      "titulo": "O caso que mobilizou a cidade",
+      "fixado": true,
+      "capa": "",
+      "url": "",
+      "fontes": [
+        {
+          "nome": "Boletim de ocorrência - SSP/MA",
+          "link": ""
+        },
+        {
+          "nome": "Entrevista com delegado responsável",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "id": "p2",
+      "categoria": "Política",
+      "titulo": "Bastidores de uma decisão estadual",
+      "fixado": false,
+      "capa": "",
+      "url": "",
+      "fontes": [
+        {
+          "nome": "Diário Oficial do Estado",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "id": "p3",
+      "categoria": "Coberturas",
+      "titulo": "Direto do resgate em tempo real",
+      "fixado": true,
+      "capa": "",
+      "url": "",
+      "fontes": []
+    },
+    {
+      "id": "p4",
+      "categoria": "Entrevistas",
+      "titulo": "A fonte que ninguém tinha ouvido",
+      "fixado": false,
+      "capa": "",
+      "url": "",
+      "fontes": []
+    },
+    {
+      "id": "p5",
+      "categoria": "TV",
+      "titulo": "Reportagem especial exibida em rede",
+      "fixado": false,
+      "capa": "",
+      "url": "",
+      "fontes": []
+    },
+    {
+      "id": "p6",
+      "categoria": "Premiações",
+      "titulo": "Reconhecimento por investigação de impacto",
+      "fixado": false,
+      "capa": "",
+      "url": "",
+      "fontes": []
+    }
+  ],
+  "entrevistas": [
+    {
+      "id": "e1",
+      "categoria": "Segurança",
+      "titulo": "Fontes da investigação abrem o caso",
+      "url": ""
+    },
+    {
+      "id": "e2",
+      "categoria": "Política",
+      "titulo": "Autoridade estadual responde às denúncias",
+      "url": ""
+    },
+    {
+      "id": "e3",
+      "categoria": "Casos",
+      "titulo": "A versão de quem viveu a história",
+      "url": ""
+    }
+  ]
+}
